@@ -1,5 +1,6 @@
 ## Unreleased
 
+- (v0_9) Tighten resolved child list types in the basic catalog layout components.
 - (v0_9) Narrow `A2uiChildRef` to the supported child reference shapes used by
   `renderNode`.
 
